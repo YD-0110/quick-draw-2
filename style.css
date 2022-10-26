@@ -1,0 +1,28 @@
+body{
+    background-color: #000000;
+opacity: 0.8;
+background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #000000 12px ), repeating-linear-gradient( #ff002a55, #ff002a );
+color: white;
+font-family: 'Kanit', sans-serif;
+padding: 10px;
+letter-spacing: 5px;
+font-size: xx-large;
+}
+
+button{
+    float: right;
+}
+
+span{
+    font-size: larger;
+}
+
+#score{
+    float: left;
+    margin-left: 100px;
+}
+
+#timer{
+    float: right;
+    margin-right: 100px;
+}
